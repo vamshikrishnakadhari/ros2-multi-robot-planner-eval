@@ -53,3 +53,10 @@ two_robot_sim/
 ## License
 
 This project is released under the MIT License.
+
+## Demo Animation
+
+Example 10-robot random conflict scenario using the reciprocal planner:
+
+![10-robot random demo](docs/media/random_10_robot_demo.gif)
+MD
