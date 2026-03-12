@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environments
+.venv/
+venv/
+
+# Generated experiment outputs
+results/*.csv
+results/plots/
+
+# Backup files
+*.bak
+*.bak_*
